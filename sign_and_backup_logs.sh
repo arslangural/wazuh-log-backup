@@ -20,6 +20,7 @@ MONTH=$(date +%b)
 
 MAIL_TO="your.email@example.com"
 SUBJECT="Wazuh Backup Completed on $(hostname) - New Logs Attached"
+MAIL_FROM="wazuh@example.com"
 
 # NAS bağlı mı kontrol et
 if ! mount | grep -q "$QNAP_DIR"; then
