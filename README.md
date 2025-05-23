@@ -24,7 +24,7 @@ Bu bash scripti, Wazuh loglarını imzalar, zaman damgası ekler ve QNAP NAS cih
 
 ---
 
-## 💩 Kurulum
+##  Kurulum
 
 1. Scripti uygun bir yere kaydet:
    ```bash
